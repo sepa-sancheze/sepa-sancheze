@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hi there, I'm José 👋
+
+I'm a junior developer who loves to learn, practice and interact with people. I mainly develop in Python.
+
+- 🔭 I’m currently working on: University projects
+- 🌱 I’m currently learning: JavaScript
+- 📫 How to reach me: sepa.sancheze@gmail.com
+- ⚡ Fun fact: I love running and Lego's
+
+### Technologies
+
+
 
 ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepa-sancheze&layout=compact)](https://github.com/sepa-sancheze/github-readme-stats)
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sepa-sancheze&show_icons=true&theme=dracula&hide=stars,issues)
-<!--
-**sepa-sancheze/sepa-sancheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
