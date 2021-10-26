@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Stats
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=sepa-sancheze&show_icons=true&theme=dracula&hide=stars,issues)
 <!--
 **sepa-sancheze/sepa-sancheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
