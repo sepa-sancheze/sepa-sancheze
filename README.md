@@ -2,8 +2,8 @@
 
 I'm a junior developer who loves to learn, practice and interact with people. I mainly develop in Python.
 
-- 🔭 I’m currently working on: University projects
-- 🌱 I’m currently learning: JavaScript
+- 🔭 I’m currently working at: Ventura Travel
+- 🌱 I’m currently learning: Kubernetes and Terraform
 - 📫 How to reach me: sepa.sancheze@gmail.com
 - ⚡ Fun fact: I love running and Lego's
 
