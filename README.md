@@ -1,6 +1,6 @@
 # Hi there, I'm José 👋
 
-I'm a junior developer who loves to learn, practice and interact with people. I mainly develop in Python.
+I'm a DevOps Engineer who loves to learn, practice and interact with people. I mainly develop in Python.
 
 - 🔭 I’m currently working at: Ventura Travel
 - 🌱 I’m currently learning: Kubernetes and Terraform
