@@ -35,8 +35,8 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people. I m
 <img align="left" alt="Kubernetes" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Docker" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
 <img align="left" alt="Ansible" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original.svg" />
-<img align="left" alt="AWS" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
-<img align="left" alt="Azure" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Azure" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
+<img align="left" alt="AWS" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br>
   
 #### Tools
@@ -45,7 +45,7 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people. I m
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />
+<img align="left" alt="Azure DevOps" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />
 <br>
 
 <h3 align="left">🔥   My Stats :</h3>
