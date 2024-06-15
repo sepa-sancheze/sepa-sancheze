@@ -1,4 +1,4 @@
-# Hi there, I'm José 👋
+# 👋 Hi there, I'm José
 
 I'm a DevOps Engineer who loves to learn, practice and interact with people. I mainly develop in Python.
 
