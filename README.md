@@ -51,8 +51,4 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people. I m
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-![Jose's github stats](https://github-readme-stats.vercel.app/api?username=sepa-sancheze&show_icons=true&hide=stars,issues)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepa-sancheze&langs_count=8)](https://github.com/sepa-sancheze/github-readme-stats)
 ###
