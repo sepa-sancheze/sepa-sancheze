@@ -48,7 +48,7 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people. I m
 <img align="left" alt="Azure DevOps" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />
 <br>
 
-🔥 My Stats
+## 🔥 My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sepa-sancheze&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
