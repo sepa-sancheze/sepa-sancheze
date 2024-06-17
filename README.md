@@ -37,6 +37,8 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people.
 <img align="left" alt="Ansible" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Azure" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
 <img align="left" alt="AWS" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="GCP" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Terraform" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" />
 <br>
   
 #### Tools
