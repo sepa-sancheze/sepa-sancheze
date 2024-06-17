@@ -8,11 +8,12 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people.
 - ⚡ Fun fact: I love running and Lego's
 
 <div align="center">
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">]([https://link-to-your-URL/](https://www.linkedin.com/in/sepa-sancheze/))
-  <a href="https://www.linkedin.com/in/sepa-sancheze/" target="_blank">
+  <a href="https://www.linkedin.com/in/sepa-sancheze/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.youtube.com/channel/UCK6shRywEX_icGGr6aIvnsw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ## 🤓 Technologies
