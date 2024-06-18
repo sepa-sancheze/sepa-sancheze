@@ -18,7 +18,7 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people.
 
 ## 🤓 Technologies
 
-#### Back-end
+#### Back-end 
 
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -34,7 +34,7 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people.
 <img align="left" alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
 <br>
 
-#### DevOps
+#### DevOps 
 
 <img align="left" alt="Kubernetes" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Docker" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
@@ -46,7 +46,7 @@ I'm a DevOps Engineer who loves to learn, practice and interact with people.
 <img align="left" alt="Jenkins" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
 <br>
   
-#### Tools
+#### Tools 
  
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
