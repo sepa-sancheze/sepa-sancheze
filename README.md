@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer who loves to learn, practice and interact with people.
 
-- 🔭 I’m currently working at: Ventura Travel
+- 🔭 I’m currently working at Ventura Travel
 - 🌱 I’m currently learning: Kubernetes and Terraform
 - 📫 How to reach me: jose@atenea.lat
 - ⚡ Fun fact: I love running and Lego's
